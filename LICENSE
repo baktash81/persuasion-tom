@@ -1,0 +1,56 @@
+MIT License (Code) / CC BY-NC 4.0 (Data)
+==========================================
+
+This repository uses a dual license:
+- Code (`scripts/`): MIT License
+- Data (`data/`): Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+---
+
+MIT License — applies to all files under scripts/
+--------------------------------------------------
+
+Copyright (c) 2026 Baktash Ansari, Mouly Dewan, Vibhor Agarwal, Afra Mashhadi
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+Creative Commons Attribution-NonCommercial 4.0 International — applies to all files under data/
+------------------------------------------------------------------------------------------------
+
+You are free to:
+  Share — copy and redistribute the material in any medium or format
+  Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+  Attribution   — You must give appropriate credit, provide a link to the license,
+                  and indicate if changes were made.
+  NonCommercial — You may not use the material for commercial purposes.
+
+Full license text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+---
+
+Note on data provenance
+-----------------------
+The data in `data/` is derived from publicly posted content on Reddit's r/ChangeMyView
+subreddit, collected via the Arctic Shift tool/API in accordance with Reddit's terms of
+service for academic research. The release does not include private communications or
+annotation labels from our human validation study.

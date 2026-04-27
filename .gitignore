@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+.env
+.venv/
+venv/
+*.log
+
+# Regenerated locally (keep shipped data/ as committed)
+results/*
+!results/.gitkeep
+
+# Optional local full corpus (not redistributed)
+data/posts_with_deltas_clean.json
+data/tom_values.json
