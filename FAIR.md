@@ -24,5 +24,4 @@ This file supports ethics / reproducibility checklists asking how the dataset su
 - **Documentation:** `README.md` describes the pipeline; `DATASHEET.md` summarizes composition and limitations; prompts mirror the paper appendix in `scripts/extraction/tom_prompts.py`.
 - **Provenance:** `tom_pairs.json` metadata includes `source_input` / `source_tom` paths when rebuilt via `build_dataset.py`.
 - **Scope:** Results are **population-level patterns**; within-post prediction is weak by design—documented in the paper and `DATASHEET.md`.
-- **Excluded assets:** Human annotation judgments for the 30-sample validity study are **not** distributed here.
 
